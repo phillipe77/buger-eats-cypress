@@ -1,0 +1,54 @@
+{
+    "signup": {
+        "name": "Phillipe Linhares",
+        "cpf": "00000012121",
+        "email": "phillipe@gmail.com",
+        "whatsapp": "98999999999",
+        "address": {
+            "postalcode": "65036284",
+            "street": "Avenida dos Franceses",
+            "number": "13",
+            "details": "quadra 13",
+            "district": "Santo Antônio",
+            "city_state": "São Luís/MA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "João Augusto",
+        "cpf": "00000012121aa",
+        "email": "abc@gmail.com",
+        "whatsapp": "98999999999",
+        "address": {
+            "postalcode": "65036284",
+            "street": "Avenida dos Franceses",
+            "number": "12",
+            "details": "quadra 12",
+            "district": "Santo Antônio",
+            "city_state": "São Luís/MA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_invalido": {
+        "name": "Augusto",
+        "cpf": "00000012121",
+        "email": "abc.com",
+        "whatsapp": "98999999998",
+        "address": {
+            "postalcode": "65036284",
+            "street": "Avenida dos Franceses",
+            "number": "14",
+            "details": "quadra 14",
+            "district": "Santo Antônio",
+            "city_state": "São Luís/MA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+}
+
+}
